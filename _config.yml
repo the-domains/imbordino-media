@@ -1,0 +1,28 @@
+name: imbordino media
+favicon: null
+layout_spectrum: 0.06338515435345471
+typography_spectrum: 0.3779212140943855
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6480352014768869
+  lightness: 0.47555899899452925
+  saturation: 0.004878796171396971
+  rhythmicContrast: 0.07741348003037274
+purpose: []
